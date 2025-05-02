@@ -99,7 +99,7 @@ const ContactSection: React.FC = () => {
                       href="mailto:sanjaix21@gmail.com" 
                       className="text-text-light hover:text-primary transition-colors"
                     >
-                      sanjai@example.com
+                      sanjaix21@gmail.com
                     </a>
                   </div>
                 </div>
