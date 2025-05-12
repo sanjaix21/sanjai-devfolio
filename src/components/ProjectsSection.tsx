@@ -34,7 +34,7 @@ const projects: Project[] = [
     description: 'A comprehensive toolkit for DevOps beginners, providing templates and automation scripts for AWS infrastructure, containerization with Docker, and configuration management with Terraform.',
     image: 'https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png',
     technologies: ['Terraform', 'Docker', 'AWS', 'IaaC'],
-    githubUrl: 'https://github.com/sanjaix21/devops-training-wheels',
+    githubUrl: 'https://github.com/sanjaix21/devops_tw',
     liveUrl: 'https://example.com/devops-demo',
   },
 ];
