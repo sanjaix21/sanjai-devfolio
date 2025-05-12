@@ -122,7 +122,7 @@ const ContactSection: React.FC = () => {
                 <h4 className="font-medium mb-3">Connect With Me</h4>
                 <div className="flex space-x-3">
                   <a 
-                    href="https://github.com/username" 
+                    href="https://github.com/sanjaix21" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-10 h-10 rounded-full bg-background-alt flex items-center justify-center hover:bg-primary hover:text-white transition-colors"
